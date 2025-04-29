@@ -77,7 +77,7 @@ on classify done:
 
 ## Credits
 
-- Matias Barandiaran ([m4mbo](https://github.com/m4mbo))
+- Matias Barandiaran ([mbaranr](https://github.com/m4mbo))
 - Parichay Sachdev ([RedHatParichay](https://github.com/RedHatParichay))
 - Mustafa Azizi
 - Athar Syed
@@ -85,3 +85,4 @@ on classify done:
 - Mikelis Kamepe
 - Inderjot Sitt
 - Isaac Richardson
+- Andre Mariucci
